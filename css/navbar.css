@@ -1,0 +1,35 @@
+.NavBG_Color {
+  background-color: rgb(255, 136, 0);
+  /* background-color:azure; */
+}
+.myColor {
+  color: rgb(255, 136, 0);
+}
+
+#navLogo {
+  width: 100px;
+  transition: 0.4s;
+}
+
+.NavB_Style {
+  /* overflow: hidden; */
+  /* background-color: rgb(255, 136, 0); */
+  /* padding: 90px 10px; */
+  /* Large padding which will shrink on scroll (using JS) */
+  /* transition: 0.4s; */
+  /* Adds a transition effect when the padding is decreased */
+  position: fixed;
+  /* Sticky/fixed navbar */
+  width: 100%;
+  top: 0;
+  /* At the top */
+  z-index: 99;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+a {
+  text-decoration: none;
+}

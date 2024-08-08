@@ -1,0 +1,5 @@
+.Paper-BG {
+  background-color: #f38c06;
+  background-image: url("../img/textured-paper.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
